@@ -1,3 +1,0 @@
-https://launchermeta.mojang.com/mc/game/version_manifest.json
-Here can be found list of all versions with urls of their json configs
-Each json config contains urls of libraries and url of minecraft 

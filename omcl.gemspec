@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nickolay02@inbox.ru"]
 
   spec.summary       = %q{Open-Source Minecraft Launcher}
-  spec.description   = %q{Open-Source Minecraft Launcher}
+  spec.description   = %q{Open-Source Minecraft Launcher for *nixes}
   spec.homepage      = "https://github.com/handicraftsman/omcl"
   spec.license       = "MIT"
 
