@@ -7,9 +7,9 @@ Open-Source Minecraft Launcher for *nixes
 2. Install OMCL: `$ gem install omcl`
 
 ## Usage
-Version list: `omcl versions`
-Install game: `omcl versions get <game version> <instance name>`
-Run game: `omcl run <instance name>`
+- Version list: `omcl versions`
+- Install game: `omcl versions get <game version> <instance name>`
+- Run game: `omcl run <instance name>`
 
 ## ToDo
 1. Implement instance-version changer
