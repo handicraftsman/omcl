@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"defs\tdefstruct"
+			],
+			[
+				"st",
+				"struct_\tstruct"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"mainloop",
+				"mainloop\tfunc"
+			],
+			[
+				"form",
+				"format\tfunc"
+			],
+			[
+				"s",
+				"singleton\tJS singleton pattern"
+			],
+			[
+				"rcc",
+				"rcc\tReact: class component"
+			],
+			[
+				"Array",
+				"Array\tArray.new(10) { |i| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exe/omcl",
+			"settings":
+			{
+				"buffer_size": 5218,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/omcl/launch.rb",
+			"settings":
+			{
+				"buffer_size": 982,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ancient/.minecraft/test.rb",
+			"settings":
+			{
+				"buffer_size": 2876,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "refre",
+		"selected_items":
+		[
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remove P",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Boxy Theme",
+				"Boxy Theme: Activation"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Install Pakage",
+				"Package Control: Install Package"
+			],
+			[
+				"Color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Colorsublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 302.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ancient/Projects/unaffiliated/omcl",
+		"/home/ancient/Projects/unaffiliated/omcl/bin",
+		"/home/ancient/Projects/unaffiliated/omcl/exe",
+		"/home/ancient/Projects/unaffiliated/omcl/lib",
+		"/home/ancient/Projects/unaffiliated/omcl/lib/omcl",
+		"/home/ancient/Projects/unaffiliated/omcl/logs"
+	],
+	"file_history":
+	[
+		"/home/ancient/Projects/unaffiliated/omcl/logs/latest.log",
+		"/home/ancient/Projects/unaffiliated/omcl/logs/2017-02-07-1.log.gz",
+		"/home/ancient/omcl/1.11.2/bin/1.11.2.json",
+		"/home/ancient/Projects/unaffiliated/omcl/lib/omcl.rb",
+		"/home/ancient/Projects/unaffiliated/omcl/lib/omcl/auth.rb",
+		"/home/ancient/Projects/unaffiliated/omcl/dat.txt",
+		"/home/ancient/Projects/unaffiliated/omcl/lib/omcl/dat.rb",
+		"/home/ancient/.minecraft/test.rb",
+		"/home/ancient/Projects/ruby/rubygoods/lib/rubygoods/log.rb",
+		"/home/ancient/Projects/unaffiliated/omcl/exe/omcl-list",
+		"/home/ancient/Projects/unaffiliated/omcl/Gemfile",
+		"/home/ancient/Projects/unaffiliated/omcl/omcl.gemspec",
+		"/home/ancient/Projects/unaffiliated/omcl/Rakefile",
+		"/home/ancient/Projects/unaffiliated/omcl/lib/omcl/version.rb",
+		"/home/ancient/Projects/unaffiliated/omcl/data.txt",
+		"/home/ancient/Projects/unaffiliated/omcl/exe/omcl",
+		"/home/ancient/Projects/irc/photonbot/cmd/cleverbot.rb",
+		"/home/ancient/Projects/unaffiliated/omcl/main.rb",
+		"/home/ancient/Projects/unaffiliated/omcl/main.lsp",
+		"/home/ancient/Projects/haskell/mchs/data.txt",
+		"/home/ancient/Projects/haskell/mchs/mchs.cabal",
+		"/home/ancient/Projects/haskell/mchs/src/Main.hs",
+		"/home/ancient/Projects/haskell/mchs/conf.cfg",
+		"/home/ancient/Projects/haskell/mchs/Setup.hs",
+		"/home/ancient/Projects/haskell/mchs/conf.yaml",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/net/URLConstants.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/net/URLConstants.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/YggdrasilTask.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/flows/AuthenticateTask.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/MojangAccount.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/AuthSession.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/AuthSession.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/flows/ValidateTask.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/MojangAccountList.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/MojangAccountList.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/MojangAccount.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/api/logic/minecraft/auth/YggdrasilTask.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/application/WonkoGui.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/NotFoundException.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/ParamBucket.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/ParseException.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/Utils.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/Launcher.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/net/minecraft/Launcher.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/LegacyFrame.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/onesix/OneSixLauncher.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/IconLoader.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/launcher/org/multimc/EntryPoint.java",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/pack200/include/unpack200.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/pack200/src/unpack.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/pack200/src/unpack200.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/libraries/pack200/anti200.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/wonkoclient/WonkoClient.h",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/wonkoclient/main.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/wonkoclient/WonkoClient.cpp",
+		"/home/ancient/Projects/haskell/mchs/MultiMC5/application/JavaCommon.cpp",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/HttpAuthenticationService.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/legacy/LegacyUserAuthentication.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/UserAuthentication.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/legacy/LegacyAuthenticationService.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/minecraft/InsecureTextureException.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/minecraft/BaseMinecraftSessionService.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/properties/PropertyMap.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/properties/Property.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/UserType.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/ProfileLookupCallback.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/BaseUserAuthentication.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/BaseAuthenticationService.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/net/minecraft/launcher/game/MinecraftGameRunner.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/com/mojang/authlib/HttpUserAuthentication.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/net/minecraft/launcher/profile/AuthenticationDatabase.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla2/net/minecraft/launcher/game/MinecraftReleaseType.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/bootstrap/FatalBootstrapError.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/bootstrap/Downloader.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/bootstrap/Bootstrap.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/bootstrap/BootstrapConstants.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/Util.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/SubmitResponse.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/SubmitRequest.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/Response.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/Report.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/PublishResponse.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/PublishRequest.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/Problem.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/HopperService.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/hopper/Crash.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/net/minecraft/bootstrap/Util.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/LZMA/LzmaException.java",
+		"/home/ancient/Projects/haskell/mchs/vanilla/LZMA/CRangeDecoder.java",
+		"/home/ancient/Projects/irc/electronbot/rect.hs",
+		"/home/ancient/Projects/irc/electronbot/lib/electronbot.ex",
+		"/home/ancient/Projects/irc/electronbot/lib/electronbot/supervisor.ex",
+		"/home/ancient/Projects/irc/electronbot/lib/electronbot/registry.ex",
+		"/home/ancient/Projects/irc/electronbot/lib/electronbot/bucket.ex",
+		"/home/ancient/Projects/irc/electronbot/test/electronbot/bucket_test.exs",
+		"/home/ancient/Projects/irc/electronbot/test/test_helper.exs",
+		"/home/ancient/Projects/irc/electronbot/test/electronbot/registry_test.exs",
+		"/home/ancient/Projects/irc/electronbot/test/electronbot_test.exs",
+		"/home/ancient/Projects/irc/electronbot/config/config.exs",
+		"/home/ancient/Projects/irc/electronbot/mix.exs",
+		"/home/ancient/Projects/irc/electronbot/conf.yaml",
+		"/home/ancient/Projects/irc/electronbot/main.ex",
+		"/home/ancient/Projects/irc/electronbot/LICENSE",
+		"/home/ancient/Projects/irc/electronbot/src/main.hs",
+		"/home/ancient/Projects/irc/electronbot/src/types.hs",
+		"/home/ancient/Projects/irc/electronbot/Setup.hs",
+		"/home/ancient/Projects/irc/electronbot/main.hs",
+		"/home/ancient/Projects/irc/electronbot/main.nim",
+		"/home/ancient/Projects/irc/electronbot/main.elx",
+		"/home/ancient/Projects/irc/electronbot/main.el",
+		"/home/ancient/Projects/irc/electronbot/electronbot.sublime-project",
+		"/home/ancient/Projects/irc/electronbot/app.lua",
+		"/home/ancient/Projects/irc/electronbot/main.moon",
+		"/home/ancient/Projects/irc/electronbot/app.moon",
+		"/home/ancient/Projects/irc/photonbot/cmd/random.rb",
+		"/home/ancient/Projects/irc/yahb/log.hy",
+		"/home/ancient/Projects/irc/electronbot/moo.moon",
+		"/home/ancient/Projects/irc/electronbot/log.moon",
+		"/home/ancient/Projects/irc/electronbot/load.moon",
+		"/home/ancient/Projects/irc/electronbot/main.py",
+		"/home/ancient/Projects/irc/protonbot/main.nim",
+		"/home/ancient/.config/sublime-text-3/Installed Packages/NimLime/nimlime_core/commands/nimcheck.py",
+		"/home/ancient/Projects/irc/protonbot/conf.yaml",
+		"/home/ancient/.config/sublime-text-3/Installed Packages/NimLime/nimlime_core/__init__.py",
+		"/home/ancient/.config/sublime-text-3/Installed Packages/NimLime/__init__.py",
+		"/home/ancient/.config/sublime-text-3/Installed Packages/NimLime/NimLime.py",
+		"/home/ancient/.config/sublime-text-3/Packages/User/NimLime.sublime-settings",
+		"/home/ancient/.config/sublime-text-3/Packages/NimLime/NimLime.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"AUTH_BASE",
+			"createUrlConnection",
+			"auth",
+			"PasswordAuthentication",
+			"KV",
+			"nil",
+			" X",
+			" Y",
+			"each",
+			"^  \\\\u",
+			"^  \\\\u0030",
+			"\\\\u0030$",
+			"^  \\\\u0030",
+			"\\\\u0030$",
+			"\\u0030",
+			"pos",
+			"str",
+			"data",
+			"\\u",
+			"{}",
+			"m.reply",
+			"perm=",
+			"perm: ",
+			"perm=",
+			"15",
+			"  \n",
+			"ptb",
+			"color",
+			"Greeter",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"ElectronBot",
+			"None",
+			"PlayerX",
+			"PlayerY",
+			"  \"\\\\u",
+			"  \"\\\\u0030",
+			"\\\\u0030\" +",
+			"\\u0030\" +",
+			"  \"",
+			"\\u0030\" +",
+			"\\u0030\\n",
+			"p",
+			"s",
+			"d",
+			"",
+			"[[nick]]",
+			"m.nreply",
+			"0, ",
+			"perm: ",
+			"30"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/ancient/Projects/unaffiliated/omcl"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exe/omcl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								673,
+								673
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										921,
+										924
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										493,
+										495
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/omcl/launch.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										975,
+										978
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										14,
+										17
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ancient/.minecraft/test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2489,
+								2489
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 479.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"njs",
+				"~/Projects/njs/njs.sublime-project"
+			],
+			[
+				"",
+				"~/gospace/src/github.com/handicraftsman/gibot/gibot.sublime-project"
+			]
+		],
+		"width": 364.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
