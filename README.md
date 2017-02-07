@@ -15,6 +15,7 @@ Open-Source Minecraft Launcher for *nixes
 1. Implement instance-version changer
 2. Implement instance renamer
 3. Refactor code
+4. Add Forge installer
 
 ## License
 
