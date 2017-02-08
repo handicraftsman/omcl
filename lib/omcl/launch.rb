@@ -4,11 +4,12 @@ module OMCL
       RG::Log.crash "Did not authenticate!"
     end
     dat = YAML.load_file "#{path}/conf.yml"
+
+    version = (dat["version"] or "1.11.2")
+
     libs = Dir[path+"/libraries/**/*.*"]
     libs = libs.join ":"
-    libs = libs + ":#{path}/bin/#{name}.jar"
-
-    p dat
+    libs = libs + ":#{path}/bin/#{version}.jar"
 
     min_mem = (dat["min_mem"] or "768M")
     max_mem = (dat["max_mem"] or "1G")
@@ -30,7 +31,7 @@ DATA
 
     RG::Log.write "Starting..."
 
-    cmd = "java #{java_opts} --username #{$username} --version #{name} --gameDir #{path} --assetsDir #{path}/assets --assetIndex #{dat["assets"].squish} --uuid #{$uid} --accessToken #{$access_token} --userType legacy --versionType #{dat["type"]} --nativeLauncherVersion 307"
+    cmd = "java #{java_opts} --username #{$username} --version #{version} --gameDir #{path} --assetsDir #{path}/assets --assetIndex #{dat["assets"].squish} --uuid #{$uid} --accessToken #{$access_token} --userType legacy --versionType #{dat["type"]} --nativeLauncherVersion 307"
     RG::Log.write "Launch command: " + cmd
     exec cmd
   end

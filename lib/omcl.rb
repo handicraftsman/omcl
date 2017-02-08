@@ -7,6 +7,7 @@ require "omcl/version"
 require "omcl/auth"
 require "omcl/dat"
 require "omcl/launch"
+require "omcl/getter"
 
 class NilClass; def downcase; nil; end; end;
 

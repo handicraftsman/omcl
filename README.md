@@ -7,7 +7,8 @@ Open-Source Minecraft Launcher for *nixes
 2. Install OMCL: `$ gem install omcl`
 
 ## Usage
-- Version list: `omcl versions`
+- Version list: `omcl versions list`
+- Local version list: `omcl versions list <instance name>`
 - Install game: `omcl versions get <game version> <instance name>`
 - Run game: `omcl run <instance name>`
 

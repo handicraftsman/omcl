@@ -1,0 +1,3 @@
+1. Split all code into reusable functions in OMCL module
+2. Version changer: if version is installed, just switches to it in config
+   If it is not - downloads and installs it, and then - switches
